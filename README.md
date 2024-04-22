@@ -1,2 +1,2 @@
-Develop a simple command line calculator using TypeScipt, Node.js and Inquirer.
+Developed a simple command line calculator using TypeScipt, Node.js and Inquirer.
 
